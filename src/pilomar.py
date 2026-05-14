@@ -4338,8 +4338,10 @@ class folderhandler(attributemaster):
             n/a
         """
         foldername = self.CleanFilename(foldername) # Remove dangerous characters.
-        foldername = self.ToPathType(foldername) # Convert to Path object.
-        folderpath = self.JoinPath(self.ProjectRoot,foldername)
+        marker = ProgramTitle + '/'
+        if marker in str(foldername):
+            foldername = str(foldername).split(marker, 1)[1]
+        folderpath = self.JoinPath(self.ProjectRoot, foldername)
         entry = {'path': str(folderpath),
                  'exists': self.PathExists(folderpath)}
         self.FolderList[key] = entry

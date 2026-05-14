@@ -1,0 +1,6 @@
+{
+    "0000" : {"Name": "m7", "LastObserved": "2026-05-14 22:06:03+00:00", "SearchTerm": "m7", "SearchGroup": "messier", "ExposureSeconds": 1.0},
+    "0001" : {"Name": "m4", "LastObserved": "2026-05-12 22:29:26+00:00", "SearchTerm": "m4", "SearchGroup": "messier", "ExposureSeconds": 1.0},
+    "0002" : {"Name": "m3", "LastObserved": "2026-05-12 19:33:45+00:00", "SearchTerm": "m3", "SearchGroup": "messier", "ExposureSeconds": 1.0},
+    "0003" : {"Name": "m12", "LastObserved": "2026-05-12 19:32:59+00:00", "SearchTerm": "m12", "SearchGroup": "messier", "ExposureSeconds": 1.0}
+}
