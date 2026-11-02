@@ -1,0 +1,80 @@
+Pi-Lomar Mini Observatory,,,,,,,,,,,,,,,,,,,
+Source,,,,,,,,,,,,,,,,"R1,409.70",,,
+1,https://www.instructables.com/Pi-lomar-3D-Printed-Working-Miniature-Observatory-/,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,Exchange Rate,,,,,,,,,,,,,,,,,,
+,,,,,,,,,"R1,409.70",,,,,,,,,,
+Item #,Description / Value,Category,Component,Quantity,Mandatory,Price Per Unit (ZAR),Import Duties Per Unit (ZAR),Delivery Cost Per Unit (ZAR),Total Cost (R),Aquired,Arrived,Recommended purchae link,Source,Available purchase link 1,Source,Available purchase link 2,Source,Available purchase link 3,Source
+1,"Raspberry Pi 4B. At least 2GB, preferably 4GB",Electronics,Motorcontroller Board,1,TRUE,R0.00,R0.00,R0.00,R0.00,TRUE,TRUE,,FALSE,PiShop,FALSE,,FALSE,,FALSE
+2,32GB micro SD card,Electronics,Motorcontroller Board,1,TRUE,R0.00,R0.00,R0.00,R0.00,TRUE,TRUE,,FALSE,PiShop,FALSE,,FALSE,,FALSE
+3,Raspberry Pi USB power supply,Electronics,Motorcontroller Board,1,TRUE,R0.00,R0.00,R0.00,R0.00,TRUE,TRUE,,FALSE,,FALSE,,FALSE,,FALSE
+4,Pimoroni Tiny2035 microcontroller 8MB Headered version,Electronics,Motorcontroller Board,1,TRUE,R189.90,R0.00,R100.00,R289.90,TRUE,TRUE,Pimorony,FALSE,Pishop,FALSE,,FALSE,,FALSE
+5,"0.9 Degree Nema17 stepper motor (eg uk_stepperonline) 17HM19-2004S (x2). (1A motors work fine, but I use 2A motors so that there's more power available in the future)",Electronics,Motorcontroller Board,2,TRUE,R399.95,R0.00,R50.00,R899.90,TRUE,TRUE,Stepper Online UK,FALSE,3d Printing Store,FALSE,,FALSE,,FALSE
+6,DRV8825 stepper motor driver board,Electronics,Motorcontroller Board,2,TRUE,R109.95,R0.00,R0.00,R219.90,TRUE,TRUE,Pololu,TRUE,3d Printing Store,FALSE,Pishop,FALSE,,FALSE
+7,47uF capacitors 25V,Electronics,Motorcontroller Board,3,TRUE,R1.29,R0.00,R0.00,R0.00,TRUE,TRUE,,FALSE,DIY Electronics,FALSE,Communica,FALSE,,FALSE
+8,BC548CTA NPN transistor,Electronics,Motorcontroller Board,1,TRUE,R0.00,R0.00,R0.00,R0.00,TRUE,TRUE,,FALSE,DIY Electronics,FALSE,,FALSE,,FALSE
+9,40way ribbon cable,Electronics,Motorcontroller Board,1,TRUE,R0.00,R0.00,R0.00,R0.00,TRUE,TRUE,,FALSE,,FALSE,,FALSE,,FALSE
+10,40way PCB header,Electronics,Motorcontroller Board,1,TRUE,R0.00,R0.00,R0.00,R0.00,TRUE,TRUE,,FALSE,,FALSE,,FALSE,,FALSE
+11,Wire,Electronics,Motorcontroller Board,1,TRUE,R0.00,R0.00,R0.00,R0.00,TRUE,TRUE,,FALSE,,FALSE,,FALSE,,FALSE
+12,Prototyping board,Electronics,Motorcontroller Board,1,TRUE,R0.00,R0.00,R0.00,R0.00,TRUE,TRUE,,FALSE,,FALSE,,FALSE,,FALSE
+13,320 to 680 Ohm resistor,Electronics,Motorcontroller Board,1,TRUE,R0.00,R0.00,R0.00,R0.00,TRUE,TRUE,,FALSE,,FALSE,,FALSE,,FALSE
+14,10K Ohm resistor,Electronics,Motorcontroller Board,1,TRUE,R0.00,R0.00,R0.00,R0.00,TRUE,TRUE,,FALSE,DIY Electronics,FALSE,,FALSE,,FALSE
+15,12V 8A power supply,Electronics,Motorcontroller Board,1,TRUE,R0.00,R0.00,R0.00,R0.00,TRUE,TRUE,,FALSE,AC DC,FALSE,,FALSE,,FALSE
+16,250mm Lazy Susan bearing.,Mechanical,Azimuth Drive And Foundation,1,TRUE,R0.00,R0.00,R0.00,R0.00,TRUE,TRUE,,FALSE,Perfect Tech SA,FALSE,,FALSE,,FALSE
+17,Steel Rod Diameter 5mm Diamter 300mm Length,Mechanical,Azimuth Drive And Foundation,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,Ali Express,FALSE,,FALSE,,FALSE
+18,Steel Rod Diameter M5 Diamter 22mm Length,Mechanical,Azimuth Drive And Foundation,6,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,Ali Express,FALSE,,FALSE,,FALSE
+18,60 Teeth Worm Gear Bore 5mm,Mechanical,Azimuth Drive And Foundation,2,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,Ebay,FALSE,Ali Express,FALSE,,FALSE,,FALSE
+19,M4 countersunk screws,Mechanical,Azimuth Drive And Foundation,8,TRUE,R0.00,R0.00,R0.00,R0.00,TRUE,TRUE,,FALSE,,FALSE,,FALSE,,FALSE
+19,M5 bolts 25mm,Mechanical,Azimuth Drive And Foundation,30,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,Ebay,FALSE,Ali Express,FALSE,,FALSE,,FALSE
+20,M5 bolts 30mm,Mechanical,Azimuth Drive And Foundation,30,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,Ebay,FALSE,Ali Express,FALSE,,FALSE,,FALSE
+20,M5 6x19mm skateboard/RC bearings,Mechanical,Azimuth Drive And Foundation,15,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+21,M6 6x19mm skateboard/RC bearings,Mechanical,Azimuth Drive And Foundation,5,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+19,M4 and M5 nuts and bolts 12-30mm,Mechanical,Azimuth Drive And Foundation,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+22,M6 flange coupler,Mechanical,Azimuth Drive And Foundation,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+21,M5 and M6 collars.,Mechanical,Azimuth Drive And Foundation,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+22,B.13.2.AzimuthDriveM5.X1.stl,3D Printed,1-azimuth-drive-wheel,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,Instructables,FALSE,,FALSE,,FALSE,,FALSE
+20,B.13.2.AzimuthDriveM6.X1.stl,3D Printed,1-azimuth-drive-wheel,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,Instructables,FALSE,,FALSE,,FALSE,,FALSE
+23,A.13.6.Foundation.X9.stl,3D Printed,2-foundation,9,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,Instructables,FALSE,,FALSE,,FALSE,,FALSE
+22,AC.13.6.AdjustableFoundation.X3.stl,3D Printed,2-foundation,3,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,Instructables,FALSE,,FALSE,,FALSE,,FALSE
+23,AG.13.6.RingGear.X1.stl,3D Printed,2-foundation,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,Instructables,FALSE,,FALSE,,FALSE,,FALSE
+21,AE.13.7+FootRing.X1.stl,3D Printed,2-foundation,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,Instructables,FALSE,,FALSE,,FALSE,,FALSE
+24,AB.13.2.AdjustableFoot.X3.stl,3D Printed,2-foundation,3,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,Instructables,FALSE,,FALSE,,FALSE,,FALSE
+23,38mmPeg.X48.stl,3D Printed,2-foundation,48,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,Instructables,FALSE,,FALSE,,FALSE,,FALSE
+24,E.13.6.DomeBearingBase.X1.stl,3D Printed,3-platform,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+25,D.13.5.DomeBase.X10.stl,3D Printed,3-platform,10,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+26,DaM4.X10.stl,3D Printed,3-platform,10,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+27,DaM5.X10.stl,3D Printed,3-platform,10,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+28,G.13.1.WallMount.X2.stl,3D Printed,3-platform,2,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+29,38mmPeg.X30.stl,3D Printed,3-platform,30,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+30,18mmPeg.X30.stl,3D Printed,3-platform,30,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+31,P.14.0.InnerWall.X2.stl,3D Printed,4-camera-tower,2,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+31,P.13.6.InnerWall.X2.stl,3D Printed,4-camera-tower,2,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+32,Y.13.1.CableRing.X1.stl,3D Printed,4-camera-tower,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+33,WL.13.2.LensCradle.X1.stl,3D Printed,4-camera-tower,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+34,W.13.1.CameraCradle.X1.stl,3D Printed,4-camera-tower,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+35,GA.13.1.Brace.X1.stl,3D Printed,4-camera-tower,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+36,R.13.3.AltitudeHub.X2.stl,3D Printed,4-camera-tower,2,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+37,L.13.4.AzimuthBrace.X2.stl,3D Printed,4-camera-tower,2,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+38,G.13.1.WallMount.X2.stl,3D Printed,4-camera-tower,2,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+39,JB.13.7.AzimuthMotor.X1.stl,3D Printed,5-azimuth-gearbox,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+40,T.13.8.AltitudeBracket.X1.stl,3D Printed,6-altitude-gearbox,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+41,JA.13.7.AltitudeMotor.X1.stl,3D Printed,6-altitude-gearbox,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+42,S.13.2.12TM1-5mm.X1.stl,3D Printed,6-altitude-gearbox,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+43,S.13.2.12TM1-6mm.X1.stl,3D Printed,6-altitude-gearbox,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+44,NA.14.3.MicrocontrollerHolder.X1.stl,3D Printed,-,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+45,Wall.13.2.X8.stl,3D Printed,7-dome,8,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+46,Dome.13.1.Segment.X8.stl,3D Printed,7-dome,8,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+46,Dome.13.3.CapAR.X1.stl,3D Printed,7-dome,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+47,Dome.13.3.CapAL.X1.stl,3D Printed,7-dome,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+51,Dome.13.1.SideA1.X1.stl,3D Printed,7-dome,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+50,Dome.13.1.SideA2.X1.stl,3D Printed,7-dome,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+49,Dome.13.1.SideB1.X1.stl,3D Printed,7-dome,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+48,Dome.13.1.SideB2.X1.stl,3D Printed,7-dome,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+52,13.2.DoorA1.X1.stl,3D Printed,7-dome,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+53,13.2.DoorA2.X1.stl,3D Printed,7-dome,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+54,13.2.DoorB1.X1.stl,3D Printed,7-dome,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+55,13.2.DoorB2.X1.stl,3D Printed,7-dome,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+56,78mmPeg.X24.stl,3D Printed,7-dome,24,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+57,38mmPeg.X8.stl,3D Printed,7-dome,8,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+58,18mmPeg.X36.stl,3D Printed,7-dome,36,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
+59,,3D Printed,7-dome,1,TRUE,R0.00,R0.00,R0.00,R0.00,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE
