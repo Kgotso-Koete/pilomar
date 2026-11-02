@@ -147,7 +147,7 @@ flowchart LR
 flowchart LR
     NEMA1["NEMA17 Motor\n(M5 D-shaft output)"]
     WG1["Worm Gear\n1:60 ratio\n5mm bore"]
-    ADS["Azimuth Drive Shaft\n5mm D × 110mm"]
+    ADS["Azimuth Drive Shaft\n5mm D × cut to size during build"]
     ADW["Azimuth Drive Wheel\nB.13.2.AzimuthDriveM5\nPrinted ✅"]
     RG["Ring Gear\nAG.13.6.RingGear\nPrinting 🖨️"]
     RATIO["Azimuth Precision\n400 steps × 60 × 4\n= 96,000 steps/rev\n= 0.004° precision"]
@@ -253,7 +253,7 @@ flowchart TD
 1. ❓ **Tiny2040 or Tiny2350?** — determines which CircuitPython version (7.2/8.2 vs 9.2+)
 2. ❓ **Trixie or Bookworm** on your Pi 5?
 3. ❓ **Worm gears ordered yet?** — must be 5mm bore, 1:60 ratio (AliExpress lead time can be weeks)
-4. ❓ **FDM3D contacted** about cutting 5mm D-shaft to 110mm?
+4. ❓ **Shaft length** — manual says "cut to size as you build." Order 300mm 5mm rod; measure against assembled parts before cutting. FDM3D Benoni (083 395 1909) is a possible local source.
 5. ❓ **Which inner wall version?** — P.14.0 (more dome clearance) or P.13.6 (more mount holes)
 
 ---

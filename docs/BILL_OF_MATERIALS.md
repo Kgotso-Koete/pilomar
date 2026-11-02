@@ -108,7 +108,7 @@ flowchart TD
     FND --> LZ
     LZ --> PLAT["Platform 🔲"]
     PLAT --> DW["Azimuth Drive Wheel\nM5 bore ✅ printed"]
-    DW --> ADS["5mm D-Shaft\n110mm · AliExpress ❌"]
+    DW --> ADS["5mm D-Shaft\nCut to length during assembly ❌"]
     ADS --> WG1["Worm Gear 1\n60T · 5mm · AliExpress ❌"]
     LZ --> SUP["6× M5 RC Bearings\n5×19×6mm ❌"]
     SUP --> AXL["Axles: 6× M5×22mm rods\n(or M5×25mm bolts) ❌"]
@@ -121,8 +121,8 @@ flowchart TD
 | # | Description | Qty | Unit (R) | Line Total (R) | Status | SA Supplier | Gap-fill |
 |---|-------------|-----|----------|----------------|--------|-------------|----------|
 | 16 | 250mm Lazy Susan bearing | 1 | R200.00 `[SA]` | **R200.00** | ✅ | [Perfect Tech SA](https://perfecttech.co.za/product/metal-swivel-turn-table-plate-for-rotating-table/) | [Amazon.fr](https://www.amazon.fr) ~R772 `[COM]` |
-| 17 | Steel rod 5mm Ø × 300mm length | 1 | — `[SA]` | — | ❌ | [AliExpress](https://www.aliexpress.com) `[SA]` | [Alibaba](https://www.alibaba.com) `[COM]` |
-| 18a | Steel rod M5 Ø × 22mm length (Lazy Susan axles) | 6 | — `[SA]` | — | ❌ | [AliExpress](https://www.aliexpress.com) `[SA]` | [Alibaba](https://www.alibaba.com) `[COM]` |
+| 17 | Steel rod 5mm Ø × 300mm length (cut to size during assembly) | 1 | — `[SA]` | — | ❌ | [AliExpress](https://www.aliexpress.com) `[SA]` | [Alibaba](https://www.alibaba.com) `[COM]` |
+| 18a | M5×25mm bolts as Lazy Susan axles (replaces cut rod) | 6 | — `[SA]` | — | ❌ | Hardware store | No cutting needed (or cut M5 rod) |
 | 18b | 60-tooth worm gear set, **5mm bore**, 1:60 | 2 | — `[SA]` | — | ❌ | [AliExpress](https://www.aliexpress.com) / [eBay](https://www.ebay.com) `[SA]` | Community: ~R484 total `[COM]` |
 | 19a | M4×25mm countersunk screws | 8 | — `[SA]` | — | ❌ | Hardware store | [Temu](https://www.temu.com) `[COM]` |
 | 19b | M5×25mm flanged button-head bolts | 30 | — `[SA]` | — | ❌ | Hardware store | [eBay](https://www.ebay.com) / [AliExpress](https://www.aliexpress.com) `[COM]` |
